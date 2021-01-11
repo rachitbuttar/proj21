@@ -1,2 +1,2 @@
-# proj21
-pro with scam
+# p5.play-boilerplate
+Boiler plate for p5.play
